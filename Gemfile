@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '3.0.1'
+ruby '2.4.0'
 
 gem 'rails', '~> 5.1'
 
@@ -10,7 +10,7 @@ gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
 gem 'coffee-rails'
 gem 'uglifier'
-gem 'chartkick'
+gem 'chartkick', '~> 2.2.5'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # This is necessary for running on linux
@@ -32,12 +32,12 @@ end
 
 group :development, :test do
   gem 'factory_girl_rails'
-  gem 'faker'
+  gem 'faker' , '~> 1.8.0'
   gem 'pry'
   gem 'pry-byebug'
   gem 'pry-coolline'
   gem 'pry-rails'
-  gem 'pry-stack_explorer'
+  gem 'pry-stack_explorer', '~> 0.4.9.2'
   gem 'spring'
   gem 'spring-commands-rspec'
 end
