@@ -4,7 +4,7 @@ Elovation
 [![Build Status](https://travis-ci.org/elovation/elovation.png?branch=master)](https://travis-ci.org/elovation/elovation)
 [![Code Climate](https://codeclimate.com/github/elovation/elovation/badges/gpa.svg)](https://codeclimate.com/github/elovation/elovation)
 
-Fork elovation
+Fork [elovation](https://github.com/elovation/elovation)
 
 Quick Start with Heroku
 ---------------------------
