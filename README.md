@@ -5,6 +5,7 @@ Elovation
 [![Code Climate](https://codeclimate.com/github/elovation/elovation/badges/gpa.svg)](https://codeclimate.com/github/elovation/elovation)
 
 Fork of [elovation](https://github.com/elovation/elovation)
+
 runs on Heroku-18 stack
 
 Quick Start with Heroku
